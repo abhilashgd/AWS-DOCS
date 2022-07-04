@@ -1,5 +1,20 @@
 # AWS-DOCS
 
+# Section 1 Creating an AWS account
+
+	Root User email address
+	AWS account name
+	Root user password
+	personal account
+	credit card details
+	Confirm identity
+	Complete sign up
+	
+	create account and login with username and password
+
+      Course slides: https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9/
+
+
 # EC2 - Solutions Architect Associate Level
 
       Private vs Public vs Elastic IP
