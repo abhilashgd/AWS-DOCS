@@ -20,6 +20,19 @@
 	AWS availability zones
 	AWS data centers
 	AWS edge locations
+	
+# How to choose AWS region
+	Compliance - with data governance and legal requirements. data never leaves without your explicit permission
+	Proximity to customers - reduced latency
+	Available services within a region: new services and new features arent available in every region
+	Pricing - pricing varies region to region and is transperent in the service pricing page
+
+# AWS availability zones
+	Each region has many available zones ( usually 3, minimum is 2, max is 6)
+	Each availability zone is one or more discrete data centers with redundant power, networking and connectivity
+
+# AWS Points of presence (edge locations)
+	Amazon has 216 points of presence. content is delivered to end user with low latency
 
 # EC2 - Solutions Architect Associate Level
 
