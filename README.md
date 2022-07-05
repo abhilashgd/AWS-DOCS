@@ -33,6 +33,12 @@
 
 # AWS Points of presence (edge locations)
 	Amazon has 216 points of presence. content is delivered to end user with low latency
+	
+#IAM (Identity and access management)
+	
+	Doesnt require region selection
+	Create IAM user
+	add user to a group
 
 # EC2 - Solutions Architect Associate Level
 
