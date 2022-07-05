@@ -13,7 +13,13 @@
 	create account and login with username and password
 
       Course slides: https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9/
+      AWS Global Infrastructure: https://aws.amazon.com/about-aws/global-infrastructure/
 
+# AWS Global Infrastructure
+	AWS regions
+	AWS availability zones
+	AWS data centers
+	AWS edge locations
 
 # EC2 - Solutions Architect Associate Level
 
